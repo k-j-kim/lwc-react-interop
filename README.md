@@ -2,6 +2,10 @@
 
 Convert React applications into Lightning Web Components (LWC) for Salesforce deployment.
 
+## Project Structure
+
+The React app entry point is `src/App.js`. This is the main component that gets rendered when the app runs. Modify `App.js` to build your React application, and it will be automatically converted to an LWC component when you generate and deploy.
+
 ## Quick Start
 
 ### Local Development
